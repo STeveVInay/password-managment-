@@ -14,8 +14,13 @@ python2 or 3
 # How to run
 -------------
 python --help
+
 python --url <site-url> -u <username> -l <password length>
+
 python --url <site-url> -u <username> -m <weak, medium, strong> (password strength )
+
+
 #Author by
 -----------
+
 Steve,Sathwik.
